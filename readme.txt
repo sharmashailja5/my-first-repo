@@ -1,1 +1,1 @@
-welcome to my first repo
+i'm learning git.yay.
